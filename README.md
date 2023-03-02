@@ -23,6 +23,8 @@
 * Настоящий Федеральный закон также определяет права и обязанности участников регулируемых настоящим Федеральным законом отношений.
 
   http://www.consultant.ru/document/cons_doc_LAW_40241/
+  
+  ---
 
 ### ФЗ-149
 
@@ -37,6 +39,8 @@
 * обеспечении защиты информации
 
   http://www.consultant.ru/document/cons_doc_LAW_61798/
+  
+  ---
 
 ### ФЗ-152
 
@@ -62,6 +66,8 @@ http://www.consultant.ru/document/cons_doc_LAW_61801/
 
 http://www.consultant.ru/document/cons_doc_LAW_146520/
 
+---
+
 ### ФЗ-187
 
 ### **"О безопасности критической информационной инфраструктуры Российской Федерации"**
@@ -84,6 +90,8 @@ https://fstec.ru/tekhnicheskaya-zashchita-informatsii/obespechenie-bezopasnosti-
 
 https://fstec.ru/normotvorcheskaya/akty/53-prikazy/1592-prikaz-fstek-rossii-ot-25-dekabrya-2017-g-n-239
 
+---
+
 ### ФЗ-98
 
 ### **"О коммерческой тайне"**
@@ -99,6 +107,8 @@ http://www.consultant.ru/document/cons_doc_LAW_48699/
 **СПЕЦИАЛЬНЫЕ ТРЕБОВАНИЯ И РЕКОМЕНДАЦИИ ПО ТЕХНИЧЕСКОЙ ЗАЩИТЕ КОНФИДЕНЦИАЛЬНОЙ ИНФОРМАЦИИ**
 
 https://wikisec.ru/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B8_%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B5_%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8_(%D0%A1%D0%A2%D0%A0-%D0%9A)
+
+---
 
 ### ФЗ-68
 
